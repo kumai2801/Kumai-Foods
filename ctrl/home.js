@@ -26,61 +26,61 @@ function do_load_content() {
 //  value of products
 var pro_item = [{
     "type_pro"        : "bread",
-    "path_pro_detail" : "/product.html",
-    "img_pro"         : "/images/Products/banh-mi.jpg",
-    "img_pro_hover"   : "/images/Products/R.jpg",
+    "path_pro_detail" : "#",
+    "img_pro"         : "./images/Products/banh-mi.jpg",
+    "img_pro_hover"   : "./images/Products/R.jpg",
     "name_pro"        : "Banh Mi Thap Cam",
     "price"           : "40.000 VND"
 },
 
 {
     "type_pro"        : "drink",
-	"path_pro_detail" : "product-details.html",
-    "img_pro"         : "/images/Products/R.jpg",
-    "img_pro_hover"   : "/images/white.png",
+	"path_pro_detail" : "#",
+    "img_pro"         : "./images/Products/R.jpg",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Lemon Tea",
     "price"           : "10.000 VND"
 },
 
 {
     "type_pro"        : "bread",
-    "path_pro_detail" : "product-details.html",
+    "path_pro_detail" : "#",
     "img_pro"         : "./images/Products/banh-mi.jpg",
-    "img_pro_hover"   : "https://via.placeholder.com/550x750",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Banh Mi Heo Quay",
     "price"           : "25.000 VND"
 },
 
 {
     "type_pro"        : "drink",
-	"path_pro_detail" : "product-details.html",
+	"path_pro_detail" : "#",
     "img_pro"         : "./images/Products/R.jpg",
-    "img_pro_hover"   : "https://via.placeholder.com/550x750",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Coffee",
     "price"           : "20.000 VND"
 },
 
 {
     "type_pro"        : "bread",
-    "path_pro_detail" : "product-details.html",
+    "path_pro_detail" : "#",
     "img_pro"         : "./images/Products/banh-mi.jpg",
-    "img_pro_hover"   : "https://via.placeholder.com/550x750",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Banh Mi xa xiu",
     "price"           : "30.000 VND"
 },
 
 {
     "type_pro"        : "drink",
-	"path_pro_detail" : "product-details.html",
+	"path_pro_detail" : "#",
     "img_pro"         : "./images/Products/R.jpg",
-    "img_pro_hover"   : "https://via.placeholder.com/550x750",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Milk Tea",
     "price"           : "10.000 VND"
 },
 
 {
     "type_pro"        : "bread",
-    "path_pro_detail" : "product-details.html",
+    "path_pro_detail" : "#",
     "img_pro"         : "./images/Products/banh-mi.jpg",
     "img_pro_hover"   : "https://via.placeholder.com/550x750",
     "name_pro"        : "Banh Mi Trung",
@@ -89,7 +89,7 @@ var pro_item = [{
 
 {
     "type_pro"        : "drink",
-	"path_pro_detail" : "product-details.html",
+	"path_pro_detail" : "#",
     "img_pro"         : "./images/Products/R.jpg",
     "img_pro_hover"   : "https://via.placeholder.com/550x750",
     "name_pro"        : "Juice",

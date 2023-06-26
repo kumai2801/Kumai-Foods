@@ -69,19 +69,19 @@ function do_load_blog() {
 }
 
 var blog = [{
-    "blog_path" : "/images/Products/KF.png",
+    "blog_path" : "./images/Products/KF.png",
     "date_publish" : "20 June, 2023. Tuesday",
     "title_blog" : "Kumai Food"
 },
 
 {
-    "blog_path" : "/images/me.jpg",
+    "blog_path" : "./images/me.jpg",
     "date_publish" : "28 January, 2004. Wednesday",
     "title_blog" : "Ngo Quoc Vinh | 22IT.EB090"
 },
 
 {
-    "blog_path" : "/images/Products/blog-banh-mi.jpg",
+    "blog_path" : "./images/Products/blog-banh-mi.jpg",
     "date_publish" : "22 July, 2020. Monday",
     "title_blog" : "Viet Nam's Bread"
 }];
