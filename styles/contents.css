@@ -1,0 +1,108 @@
+/*======================================
+   Start Small Banner CSS
+========================================*/ 
+.small-banner{
+	margin: 20px 0;
+	padding: 0;
+}
+.small-banner .single-banner {
+	overflow:hidden;
+	position:relative;
+}
+.small-banner .single-banner img{
+	height:100%;
+	width:100%;
+	border-radius: 10px;
+	-webkit-transition:all 0.4s ease;
+	-moz-transition:all 0.4s ease;
+	transition:all 0.4s ease;
+}
+.small-banner .single-banner .content {
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	padding-left: 35px;
+}
+.small-banner .single-banner h3 {
+	font-size: 22px;
+	font-weight: 700;
+	text-transform: capitalize;
+	color: #333;
+}
+.small-banner .single-banner h3 span{
+	color:#F7941D;
+}
+.small-banner .single-banner p {
+	font-size: 14px;
+	color: #F7941D;
+	font-weight: 500;
+	margin-bottom: 5px;
+	text-transform: capitalize;
+}
+.small-banner .single-banner a {
+	color: #333;
+	margin-top: 22px;
+	display: block;
+	font-size: 12px;
+	font-weight:500;
+	display: inline-block;
+	text-transform:uppercase;
+	border-bottom:2px solid #333;
+}
+.small-banner .single-banner a:hover{
+	color:#F7941D;
+	border-color:#F7941D;
+}
+/*======================================
+   End Small Banner CSS
+========================================*/ 
+
+/*======================================
+   Start Product Area CSS
+========================================*/
+
+.product-area {
+	padding: 0;
+	margin: 20px 0;
+}
+
+.product-area .nav-tabs {
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	border:none;
+}
+.product-area .nav-tabs .nav-item {
+	margin-bottom: -1px;
+	display: inline-block;
+}
+.product-area .nav-tabs li a {
+	color: #333;
+	text-transform: uppercase;
+	display: inline-block;
+	position: relative;
+	margin-right: 5px;
+	font-weight: 500;
+	background: #fff;
+	color: #333;
+	padding: 3px 14px;
+	border-radius: 3px;
+	font-size: 13px;
+}
+.product-area .nav-tabs li:last-child a{
+	border-color:transparent;
+} 
+.product-area .nav-tabs li a i{
+	margin-right:10px;
+}
+.product-area .nav-tabs li a.active,
+.product-area .nav-tabs li:hover a{
+	background:#F7941D;
+	color:#fff;
+	border-color:transparent;
+}
+
+/*======================================
+   End Product Area CSS
+========================================*/
