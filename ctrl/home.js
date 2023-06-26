@@ -82,7 +82,7 @@ var pro_item = [{
     "type_pro"        : "bread",
     "path_pro_detail" : "#",
     "img_pro"         : "./images/Products/banh-mi.jpg",
-    "img_pro_hover"   : "https://via.placeholder.com/550x750",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Banh Mi Trung",
     "price"           : "15.000 VND"
 },
@@ -91,7 +91,7 @@ var pro_item = [{
     "type_pro"        : "drink",
 	"path_pro_detail" : "#",
     "img_pro"         : "./images/Products/R.jpg",
-    "img_pro_hover"   : "https://via.placeholder.com/550x750",
+    "img_pro_hover"   : "./images/white.png",
     "name_pro"        : "Juice",
     "price"           : "15.000 VND"
 }];
