@@ -78,7 +78,7 @@ var pro_item = [{
     "price"           : "10.000 VND"
 },
 
-{
+{   
     "type_pro"        : "bread",
     "path_pro_detail" : "#",
     "img_pro"         : "./images/Products/banh-mi.jpg",
